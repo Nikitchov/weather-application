@@ -46,7 +46,7 @@ error: undefined
     country: undefined,
     pressure: undefined,
     sunset: undefined,
-    error: "Введите название города",
+    error: "Enter your city",
   });
 }
 }
